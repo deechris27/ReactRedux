@@ -1,13 +1,13 @@
 {
-  "name": "architectui-react-theme-free",
+  "name": "ref proj",
   "version": "1.0.0",
   "private": true,
-  "description": "ArchitectUI - Bootstrap 4 ReactJS Admin Dashboard Template FREE",
-  "author": "DashboardPack.com",
-  "homepage": "https://demo.dashboardpack.com/architectui-react-free/",
+  "description": "ref proj",
+  "author": "dee",
+  "homepage": "tidbit.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DashboardPack/architectui-react-theme-free"
+    "url": "ddd"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.15",
